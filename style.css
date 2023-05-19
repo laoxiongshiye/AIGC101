@@ -1,0 +1,82 @@
+/* 标题样式 */
+h1 {
+  font-family: 'Sonsie One', cursive;
+  color: #2a2a2a;
+  font-size: 4rem;
+  text-align: center;
+}
+
+/* 导航栏样式 */
+nav {
+  height: 50px;
+  background-color: #ff80ff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2%;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: black;
+}
+
+nav form {
+  display: flex;
+  align-items: center;
+}
+
+input[type="search"] {
+  font-size: 1.6rem;
+  height: 32px;
+  padding: 0 10px;
+}
+
+input[type="submit"] {
+  font-size: 1.6rem;
+  height: 32px;
+  margin-left: 10px;
+  background: #333;
+  border: 0;
+  color: white;
+}
+
+/* 主要内容样式 */
+main {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+article, aside, section {
+  flex: 1;
+  background-color: #f2f2f2;
+  padding: 2%;
+  margin-bottom: 20px;
+}
+
+article h2, aside h2, section h2 {
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+article .content, aside .content, section .content {
+  font-size: 1.6rem;
+  line-height: 1.5;
+}
