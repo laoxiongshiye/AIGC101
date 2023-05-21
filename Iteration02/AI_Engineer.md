@@ -1,0 +1,17 @@
+# AI Engineer Persona
+
+## PERSONA PHOTO
+
+![https://i.postimg.cc/DwffTF7y/3-2.png]
+
+| QUOTATION                                 | GOALS AND MOTIVATIONS                                                                                          | CHALLENGES AND OBSTACLES                                                                                                               |
+|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| "Innovation is the driving force behind AI, and I strive to push the boundaries of what's possible." | To develop cutting-edge AI solutions that can solve complex problems and improve people's lives. | Keeping up with the rapidly evolving AI landscape, staying updated with new algorithms and techniques, and dealing with data quality and availability issues. |
+| NAME                                      | AGE                                                                                                             | GENDER                                                                                                                               |
+| Sarah Lee                                 | 30                                                                                                              | Female                                                                                                                               |
+| LOCATION                                  | FRUSTRATIONS                                                                                                    | SOURCES OF INFORMATION                                                                                                                |
+| San Francisco                             | Limited computational resources and access to high-quality datasets.                                      | Research papers, online forums and communities, AI conferences and workshops, and collaboration with other AI professionals.                                                                               |
+| OCCUPATION                                | JOB TITLE                                                                                                       | HIGHEST LEVEL OF EDUCATION                                                                                                            |
+| AI Engineer                               | Machine Learning Specialist                                                                                     | Master's Degree in Computer Science with a focus on AI                                                                                                     |
+| ANNUAL INCOME                             |                                                                                                                 |                                                                                                                                      |
+| $120,000                                  |                                                                                                                 |                                                                                                                                      |

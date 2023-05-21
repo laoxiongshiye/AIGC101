@@ -1,0 +1,17 @@
+# PERSONA TEMPLATE
+
+## PERSONA PHOTO
+
+![https://i.postimg.cc/650q4qFB/4.png]
+
+| QUOTATION                                 | GOALS AND MOTIVATIONS                                                                                          | CHALLENGES AND OBSTACLES                                                                                                               |
+|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| "Knowledge is power, and I'm hungry for it." | To acquire a solid understanding of AI concepts and develop practical AI skills for personal and professional growth. | Managing time effectively to balance learning with other commitments, staying motivated during challenging learning tasks, and finding quality learning resources. |
+| NAME                                      | AGE                                                                                                             | GENDER                                                                                                                               |
+| Emily                                     | 24                                                                                                              | Female                                                                                                                               |
+| LOCATION                                  | FRUSTRATIONS                                                                                                    | SOURCES OF INFORMATION                                                                                                                |
+| New York City                             | Information overload and difficulty finding the right learning materials.                                      | Online courses, tutorials, forums, and AI-related books.                                                                               |
+| OCCUPATION                                | JOB TITLE                                                                                                       | HIGHEST LEVEL OF EDUCATION                                                                                                            |
+| Data Analyst                              | AI Enthusiast                                                                                                   | Bachelor's Degree in Data Science                                                                                                     |
+| ANNUAL INCOME                             |                                                                                                                 |                                                                                                                                      |
+| $60,000                                   |                                                                                                                 |                                                                                                                                      |
